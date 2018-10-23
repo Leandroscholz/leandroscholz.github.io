@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Leandro's personal page"
+title                    : "Leandro1s Page"
 title_separator          : "-"
 name                     : &name "Leandro Aluisio Scholz"
 description              : &description "MSc. in Chemical Engineering"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leandro S."
+  name             : "Leandro A. Scholz"
   avatar           : "Eu_pequena.jpg"
   bio              : "Young researcher, passionate by engineering, bioimage analysis and the outdoors"
   location         : "Curitiba, PR, Brazil"
@@ -88,12 +88,12 @@ author:
   googlescholar    : "https://scholar.google.com.br/citations?user=kengfpgAAAAJ&hl=pt-BR"
   email            : "leandro.a.scholz@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : "leandroscholz"
   codepen          :
   dribbble         :
   flickr           : "leandrostencils"
   facebook         :
-  foursquare       :
+  foursquare       : "leandroscholz"
   github           : "leandroscholz"
   google_plus      :
   keybase          :
