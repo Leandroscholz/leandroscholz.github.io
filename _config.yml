@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Leandro Scholz, MSc."
+title                    : "Leandro's personal page"
 title_separator          : "-"
 name                     : &name "Leandro Aluisio Scholz"
-description              : &description "personal description"
+description              : &description "MSc. in Chemical Engineering"
 url                      : https://leandroscholz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leandroscholz/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Leandro S."
-  avatar           : "Eu_pequena.png"
+  avatar           : "Eu_pequena.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Curitiba, PR, Brazil"
   employer         :
@@ -91,7 +91,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : 
+  flickr           : "leandrostencils"
   facebook         :
   foursquare       :
   github           : "leandroscholz"
