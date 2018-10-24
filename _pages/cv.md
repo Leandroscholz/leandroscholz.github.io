@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Chemical Engineering, Federal University of Paraná, 2013. 
+* M.Sc in Chemical Engineering, Federal University of Paraná, 2018. 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Field Advisor @ Honeywell UOP - Jan 2015 - Nov 2015
+* Development Engineer - Gas Processing & Hydrogen Technical Services @ Honeywell UOP - Aug 2014 - Dec 2014
+* Development Engineer - Naphtha Development @ Honeywell UOP - July 2013 - Aug 2014
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
